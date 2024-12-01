@@ -11,17 +11,6 @@ This application is built using :
 It is just a fresh <b>Laravel 11</b> installation with integrated <b>Bootstrap 5</b> and <b>Bootstrap Icons</b>.<br/>
 You can use this as a starting point to create your own Bootstrap 5 based Laravel applications.
 
-<p align="center">
-    <img src="https://www.kreaweb.be/wp-content/uploads/2024/03/laravel-11-bootstrap-5-004b.webp"/>
-</p>
-
-<p align="center">
-    <img src="https://www.kreaweb.be/wp-content/uploads/2024/03/laravel-11-bootstrap-5-005b.webp"/>
-</p>
-
-## Documentation
-
-<a href="https://www.kreaweb.be/laravel-11-bootstrap-5/" target="_blank">https://www.kreaweb.be/laravel-11-bootstrap-5/</a>
 
 ## License
 
